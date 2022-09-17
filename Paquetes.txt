@@ -1,0 +1,12 @@
+2
+panama
+ecuador
+500
+3
+estambul
+paris
+1000
+3
+
+
+1000
